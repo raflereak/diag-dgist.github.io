@@ -4,12 +4,12 @@
             <div class="col-lg-8 col-lg-offset-2">
                 <h2>Contact</h2>
                 <p>You can find out more information about the PI and her research on her pages:</p>
-                <p><a href="https://jyskwon.github.io/">jyskwon.github.io</a>
+                <p><a href="https://jyskwon.github.io/" target="_blank">jyskwon.github.io</a>
                 </p>
                 <ul class="list-inline banner-social-buttons">
                     {% for network in site.social %}
                     <li>
-                        <a href="{{ network.url }}" class="btn btn-default btn-lg"><i class="fa fa-{{ network.title }} fa-fw"></i> <span class="network-name">{{ network.title }}</span></a>
+                        <a href="{{ network.url }}" target="_blank" class="btn btn-default btn-lg"><i class="fa fa-{{ network.title }} fa-fw"></i> <span class="network-name">{{ network.title }}</span></a>
                     </li>
                     {% endfor %}
                 </ul>
