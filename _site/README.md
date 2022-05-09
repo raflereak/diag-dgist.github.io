@@ -16,7 +16,7 @@ This is our lab's website. We are using Jekyll, a static website generator.
 1. Go to `_includes/publications.html`
 2. Append the list by copy-pasting one of the already existing items and filling in your information.
 3. Add additional materials (e.g., paper, poster, slide) under the directory `publications`
-4. Add a hyperlink to the added materials (e.g., <a href="/publications/paper_name.pdf">Paper Title</a>)
+4. Add a hyperlink to the added materials (e.g., < a href="/publications/paper_name.pdf" >Paper Title< /a >)
 
 ## How to check changes you made locally
 
