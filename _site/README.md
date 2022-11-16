@@ -8,7 +8,7 @@ This is our lab's website. We are using Jekyll, a static website generator.
 
 1. Go to `_includes/people.html`
 2. Edit or add what you want (e.g., name, email address, homelage link, etc)
-3. To add a profile photo, choose an image and put it under the directory `_site/img/your_name_profile_picture.jpg`
+3. To add a profile photo, choose an image and put it under the directory `img/your_name_profile_picture.jpg`
 4. Reference your image in `_includes/people.html` with your photo's file name
 
 ### Publications
