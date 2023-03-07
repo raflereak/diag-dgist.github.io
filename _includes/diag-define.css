@@ -1,0 +1,10 @@
+.photoContainer{
+  height:200px
+  text-align:center
+}
+.photoContainer img{
+  width:150px
+  max-height:200px
+  object-fit:cover
+  text-align:center
+}
