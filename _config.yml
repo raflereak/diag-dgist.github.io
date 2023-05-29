@@ -7,8 +7,8 @@ description: "In the DGIST Intelligence Augmentation Group (DIAG), we do researc
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary-dark: '#020006'
-  primary-body: '#eee6ff'
-  links: '#eb5e42'
+  primary-body: '#ECF8FE'
+  links: '#0574A7'
 
 # Footer settings
 footer: diag.kr
