@@ -51,7 +51,7 @@ p {
 }
 
 a {
-    color: #009970;
+    color: #eb5e42;
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
@@ -60,7 +60,7 @@ a {
 a:hover,
 a:focus {
     text-decoration: none;
-    color: #11505d;
+    color: #f39e8d;
 }
 
 .light {
@@ -72,7 +72,7 @@ a:focus {
     border-bottom: 1px solid rgba(255,255,255,.3);
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    background-color: #000000;
+    background-color: #020006;
 }
 
 .navbar-custom .navbar-brand {
@@ -129,7 +129,7 @@ a:focus {
 
     .top-nav-collapse {
         padding: 0;
-        background-color: #000000;
+        background-color: #020006;
     }
 
     .navbar-custom.top-nav-collapse {
@@ -145,7 +145,7 @@ a:focus {
     text-align: center;
     color: #fff;
     background: url(/img/intro-bg-4.jpg) no-repeat bottom center scroll;
-    background-color: #000000;
+    background-color: #020006;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -263,7 +263,7 @@ a:focus {
     padding: 50px 0;
     color: #fff;
     background: url(/img/downloads-bg.jpg) no-repeat center center scroll;
-    background-color: #000000;
+    background-color: #020006;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -301,17 +301,17 @@ a:focus {
 }
 
 .btn-default {
-    border: 1px solid #219ab3;
-    color: #219ab3;
+    border: 1px solid #eb5e42;
+    color: #eb5e42;
     background-color: transparent;
 }
 
 .btn-default:hover,
 .btn-default:focus {
-    border: 1px solid #219ab3;
+    border: 1px solid #eb5e42;
     outline: 0;
-    color: #000000;
-    background-color: #219ab3;
+    color: #020006;
+    background-color: #eb5e42;
 }
 
 ul.banner-social-buttons {
@@ -371,3 +371,15 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
 }
+
+.photoContainer{
+  height:200px;
+  text-align:center;
+}
+.photoContainer img{
+  width:150px;
+  max-height:200px;
+  object-fit:cover;
+  text-align:center;
+}
+
