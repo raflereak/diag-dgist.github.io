@@ -15,7 +15,7 @@ body {
     height: 100%;
     font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #222;
-    background-color: #E9F6FC;
+    background-color: #ECF8FE;
 }
 
 html {
@@ -312,17 +312,17 @@ a:focus {
 }
 
 .btn-default {
-    border: 1px solid #eb5e42;
-    color: #eb5e42;
+    border: 1px solid #0574A7;
+    color: #0574A7;
     background-color: transparent;
 }
 
 .btn-default:hover,
 .btn-default:focus {
-    border: 1px solid #eb5e42;
+    border: 1px solid #0574A7;
     outline: 0;
     color: #020006;
-    background-color: #eb5e42;
+    background-color: #0574A7;
 }
 
 ul.banner-social-buttons {
@@ -393,3 +393,4 @@ body {
   object-fit:cover;
   text-align:center;
 }
+
